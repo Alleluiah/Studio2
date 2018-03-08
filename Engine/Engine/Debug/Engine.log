@@ -1,0 +1,51 @@
+﻿  zoneclass.cpp
+d:\win8\win8 data and apps\17-18 works\nie2211 studio ii\semester 2\tutorials\week2\ter14_winsdk\engine\engine\colorshaderclass.h(39): warning C4114: same type qualifier used more than once
+d:\win8\win8 data and apps\17-18 works\nie2211 studio ii\semester 2\tutorials\week2\ter14_winsdk\engine\engine\zoneclass.cpp(50): warning C4316: 'CameraClass': object allocated on the heap may not be aligned 16
+  userinterfaceclass.cpp
+d:\win8\win8 data and apps\17-18 works\nie2211 studio ii\semester 2\tutorials\week2\ter14_winsdk\engine\engine\colorshaderclass.h(39): warning C4114: same type qualifier used more than once
+  timerclass.cpp
+  textureshaderclass.cpp
+  texturemanagerclass.cpp
+  textureclass.cpp
+  textclass.cpp
+d:\win8\win8 data and apps\17-18 works\nie2211 studio ii\semester 2\tutorials\week2\ter14_winsdk\engine\engine\colorshaderclass.h(39): warning C4114: same type qualifier used more than once
+  terrainshaderclass.cpp
+  terrainclass.cpp
+d:\win8\win8 data and apps\17-18 works\nie2211 studio ii\semester 2\tutorials\week2\ter14_winsdk\engine\engine\terrainclass.cpp(232): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+d:\win8\win8 data and apps\17-18 works\nie2211 studio ii\semester 2\tutorials\week2\ter14_winsdk\engine\engine\terrainclass.cpp(239): warning C4244: 'argument': conversion from 'unsigned __int64' to 'std::size_t', possible loss of data
+  terraincellclass.cpp
+  systemclass.cpp
+d:\win8\win8 data and apps\17-18 works\nie2211 studio ii\semester 2\tutorials\week2\ter14_winsdk\engine\engine\colorshaderclass.h(39): warning C4114: same type qualifier used more than once
+  skydomeshaderclass.cpp
+  skydomeclass.cpp
+  shadermanagerclass.cpp
+d:\win8\win8 data and apps\17-18 works\nie2211 studio ii\semester 2\tutorials\week2\ter14_winsdk\engine\engine\colorshaderclass.h(39): warning C4114: same type qualifier used more than once
+  positionclass.cpp
+  minimapclass.cpp
+d:\win8\win8 data and apps\17-18 works\nie2211 studio ii\semester 2\tutorials\week2\ter14_winsdk\engine\engine\colorshaderclass.h(39): warning C4114: same type qualifier used more than once
+  main.cpp
+d:\win8\win8 data and apps\17-18 works\nie2211 studio ii\semester 2\tutorials\week2\ter14_winsdk\engine\engine\colorshaderclass.h(39): warning C4114: same type qualifier used more than once
+  lightshaderclass.cpp
+  lightclass.cpp
+  inputclass.cpp
+  Generating Code...
+d:\win8\win8 data and apps\17-18 works\nie2211 studio ii\semester 2\tutorials\week2\ter14_winsdk\engine\engine\lightshaderclass.cpp(338): warning C4700: uninitialized local variable 'dataPtr' used
+  Compiling...
+  frustumclass.cpp
+  fpsclass.cpp
+  fontshaderclass.cpp
+  fontclass.cpp
+  d3dclass.cpp
+d:\win8\win8 data and apps\17-18 works\nie2211 studio ii\semester 2\tutorials\week2\ter14_winsdk\engine\engine\d3dclass.cpp(43): warning C4101: 'stringLength': unreferenced local variable
+  colorshaderclass.cpp
+d:\win8\win8 data and apps\17-18 works\nie2211 studio ii\semester 2\tutorials\week2\ter14_winsdk\engine\engine\colorshaderclass.h(39): warning C4114: same type qualifier used more than once
+  cameraclass.cpp
+  bitmapclass.cpp
+  applicationclass.cpp
+d:\win8\win8 data and apps\17-18 works\nie2211 studio ii\semester 2\tutorials\week2\ter14_winsdk\engine\engine\colorshaderclass.h(39): warning C4114: same type qualifier used more than once
+d:\win8\win8 data and apps\17-18 works\nie2211 studio ii\semester 2\tutorials\week2\ter14_winsdk\engine\engine\applicationclass.cpp(50): warning C4316: 'D3DClass': object allocated on the heap may not be aligned 16
+  Generating Code...
+d:\win8\win8 data and apps\17-18 works\nie2211 studio ii\semester 2\tutorials\week2\ter14_winsdk\engine\engine\colorshaderclass.cpp(273): warning C4700: uninitialized local variable 'dataPtr' used
+applicationclass.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  Engine.vcxproj -> D:\Win8\Win8 Data and Apps\17-18 Works\NIE2211 Studio II\Semester 2\Tutorials\Week2\ter14_WinSDK\Engine\Debug\Engine.exe
+  Engine.vcxproj -> D:\Win8\Win8 Data and Apps\17-18 Works\NIE2211 Studio II\Semester 2\Tutorials\Week2\ter14_WinSDK\Engine\Debug\Engine.pdb (Full PDB)
